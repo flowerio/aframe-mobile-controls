@@ -6,11 +6,7 @@ Have you ever been comfortably seated in Cardboard VR, and realized you would ha
 
 Mobile tools from Fasility: twoway-motion | tilt-turn
 
-![gif](https://fasility.com/components/twoway-motion/demos/fancy-house.gif)
-
-![Sherlock's Apartment](https://fasility.com/components/tilt-turn/demos/sherlock-holmes.gif)
-
-![gif](https://fasility.com/components/tilt-turn/demos/sherlock-holmes.gif)
+![gif](https://fasility.com/components/tilt-turn/demos/tilt-turn-small.gif)
 
 ## Demos
 
