@@ -15,7 +15,7 @@ Tap and hold to move forward. To move backward, look downward and tap. (If you h
 
 Make sure you are using A-Frame 0.7.0 or later. Then include aframe-twoway-motion.js in your HTML:
 ```html
-<script src="https://github.com/Ctrl-Alt-Zen/aframe-mobile-controls/blob/master/components/twoway-motion/twoway-motion.js"></script>
+<script src="https://rawgit.com/Ctrl-Alt-Zen/aframe-mobile-controls/master/components/twoway-motion/twoway-motion.js"></script>
 ```
 
 Then attach it to your `<a-camera>`: 
