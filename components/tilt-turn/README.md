@@ -21,7 +21,7 @@ Easy to use! Prevents the awkwardness of asking people to stand up and turn thei
 
 Make sure you are using A-Frame 0.7.0 or later. Then include aframe-tilt-turn.js in your HTML:
 ```html
-<script src="[location of repo's dist]/tilt-turn.js"></script>
+<script src="https://rawgit.com/Ctrl-Alt-Zen/aframe-mobile-controls/master/components/tilt-turn/tilt-turn.js"></script>
 ```
 
 Then attach it to your `<a-camera>`: 
