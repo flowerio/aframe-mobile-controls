@@ -4,8 +4,6 @@ Tilt your head or device to intuitively rotate [A-Frame](http://aframe.io) VR sc
 
 Have you ever been comfortably seated in Cardboard VR, and realized you would have to stand up and turn around to look at something behind you? Well, despair no more, hold your head up high, and give it a jaunty tilt to the left and right. aframe-tilt-turn has you covered.  
 
-Mobile tools from Fasility: twoway-motion | tilt-turn
-
 ![gif](https://fasility.com/components/tilt-turn/demos/tilt-turn-smaller.gif)
 
 ## Demos
