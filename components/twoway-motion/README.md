@@ -6,7 +6,7 @@ Supports Portrait, Landscape and Cardboard modes.
 
 Mobile tools from Fasility: twoway-motion | tilt-turn
 
-![gif](https://fasility.com/components/twoway-motion/demos/twoway-motion-smaller.gif)
+![gif](https://fasility.com/components/twoway-motion/demos/twoway-motion-small.gif)
 
 ## Demos
 
