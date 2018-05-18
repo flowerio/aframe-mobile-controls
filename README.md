@@ -1,10 +1,12 @@
 # aframe-mobile-controls
 
-A collection of mobile focused components for A-Frame by Fasility. Explore each component using the links below:
+A collection of mobile focused components for A-Frame by Fasility. These components make it easier to get around on mobile devices, whether you are in portrait, landscape, or Cardboard modes. 
 
-:aerial_tramway: [twoway-motion](components/twoway-motion/README.md) - Add forward / backward mobile movement with one touch
+Explore each component using the links below:
 
-:snowboarder: [tilt-turn](components/tilt-turn/README.md) - Tilt a mobile device to spin the scene
+:aerial_tramway: [twoway-motion](components/twoway-motion/README.md) - Move forward and backward with one touch
+
+:snowboarder: [tilt-turn](components/tilt-turn/README.md) - Tilt left or right to gently rotate the scene 
 
 ![Fasility](http://www.fasility.com/images/fasility.png "Fasility, LLC")
 
